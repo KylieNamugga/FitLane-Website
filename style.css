@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0px;
+    height: 0px;
+    background-color: white;
+  }
+
+.footer {
+    background-color: black;
+    height: 300px;
+    margin-top: 50px ;
+  }
+
+  .footer-item { 
+    width: 300px;
+    float: left;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
